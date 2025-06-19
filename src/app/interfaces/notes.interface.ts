@@ -1,4 +1,3 @@
-
 export interface Inotes {
     title : String,
     content : String,
